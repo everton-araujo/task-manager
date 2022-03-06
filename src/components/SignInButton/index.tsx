@@ -4,7 +4,10 @@ import styles from './styles.module.scss'
 
 export function SignInButton() {
   return (
-    <button className={styles.signInButton}>
+    <button
+      className={styles.signInButton}
+      type='button'
+    >
       <FaGithub />
       Entrar com github
     </button>
