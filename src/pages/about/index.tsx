@@ -20,7 +20,7 @@ export default function About() {
       <h3>Gostaria de contribuir?</h3>
       <p>
         O projeto é open source e o repositório do github se encontra
-        <a href="https://github.com/everton-araujo/task-manager" target="_blank"> aqui</a>.
+        <a href="https://github.com/everton-araujo/task-manager" target="_blank" rel="noreferrer"> aqui</a>.
       </p>
     </main>
   )
