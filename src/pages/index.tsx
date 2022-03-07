@@ -17,7 +17,7 @@ export default function Home() {
           </h1>
           <p>
             Vamos organizar o gerenciamento desses projetos aí? <br /> 
-            que, convenhamos, sabemos que estão bagunçados?
+            que, convenhamos, sabemos que estão bagunçados
           </p>
         </section>
 
