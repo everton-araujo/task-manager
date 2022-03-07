@@ -1,0 +1,28 @@
+.content {
+  padding: 3rem;
+
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+  }
+
+  h3 {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+  }
+
+  p {
+    margin-top: 0.5rem;
+    font-size: 1.05rem;
+    line-height: 1.6rem;
+
+    a {
+      color: var(--cyan-500);
+    }
+  }
+}
